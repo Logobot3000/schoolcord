@@ -1,0 +1,43 @@
+    <!DOCTYPE html>
+    <html lang="en">
+
+        <head>
+            <meta name="viewport" content="width=device-width">
+            <meta charset="UTF-8">
+            <title>Schoolcord</title>
+
+            <!--suppress HtmlUnknownTarget -->
+            <link rel="stylesheet" href="./css/home.css">
+        </head>
+
+        <body>
+            <header>
+                <div class="gap"></div>
+                <div class="header-title">
+                    <h1>Schoolcord</h1>
+                </div>
+                <div class="gap">
+                    <a href="/about">
+                        About
+                    </a>
+                </div>
+            </header>
+            <main id="messages">
+                <div id="container"></div>
+            </main>
+            <form method="get" action="/">
+                <div class="form-content">
+                    <label>
+                        <input class="name-bar" name="displayname" type="text" placeholder="Enter a display name..." minlength="2" maxlength="30" autocomplete="off">
+                    </label>
+                    <label>
+                        <input class="message-bar" name="message" type="text" placeholder="Type your message here..." minlength="1" maxlength="500" autocomplete="off">
+                    </label>
+                </div>
+                <button type="submit">Go</button>
+            </form>
+            <!--suppress HtmlUnknownTarget -->
+            <script src="./js/home.js"></script>
+        </body>
+
+    </html>

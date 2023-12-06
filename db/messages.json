@@ -1,0 +1,90 @@
+{
+	"params": {
+		"id": "auto_increment",
+		"display_name": "string",
+		"text": "string"
+	},
+	"data": [
+		{
+			"display_name": "Logobot3000",
+			"text": "With this message, Schoolcord v1.0 has been released!",
+			"id": 0
+		},
+		{
+			"display_name": "Logobot3000",
+			"text": "yo you tryna hop on schoolcord 💀",
+			"id": 1
+		},
+		{
+			"display_name": "ash",
+			"text": "yeah bro 🔥🔥🔥",
+			"id": 2
+		},
+		{
+			"display_name": "ash",
+			"text": "lovin this impersonation feature tbh",
+			"id": 3
+		},
+		{
+			"display_name": "Dinofish32",
+			"text": "hyd",
+			"id": 4
+		},
+		{
+			"display_name": "Dinofish32",
+			"text": "hi",
+			"id": 5
+		},
+		{
+			"display_name": "Logobot3000",
+			"text": "hi",
+			"id": 6
+		},
+		{
+			"display_name": "Logobot3000",
+			"text": ":/",
+			"id": 7
+		},
+		{
+			"display_name": "Logobot3000",
+			"text": "damnnn impersonator",
+			"id": 8
+		},
+		{
+			"display_name": "hello",
+			"text": "hi",
+			"id": 9
+		},
+		{
+			"display_name": "Logobot3000",
+			"text": "actually popping off rn",
+			"id": 10
+		},
+		{
+			"display_name": "Logobot3000",
+			"text": "impersonation \"feature\" will be fixed in a later update, maybe v1.1 but idrk",
+			"id": 11
+		},
+		{
+			"display_name": "Logobot3000",
+			"text": "hello :)",
+			"id": 12
+		},
+		{
+			"display_name": "Logobot3000",
+			"text": "hi guys",
+			"id": 13
+		},
+		{
+			"display_name": "Logobot3000",
+			"text": "schoolcord bestcord",
+			"id": 14
+		},
+		{
+			"display_name": "Logobot3000",
+			"text": "bloopity bloppity test",
+			"id": 15
+		}
+	],
+	"next_increment": 16
+}

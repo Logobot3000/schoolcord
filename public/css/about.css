@@ -1,0 +1,74 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "MS Reference Sans Serif", sans-serif;
+    color: white;
+}
+
+body {
+    background-color: #2b2d30;
+}
+
+header {
+    background-color: #1e1f22;
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: 0 0 25px 4px rgba(0, 0, 0, 0.65);
+    -webkit-box-shadow: 0 0 25px 4px rgba(0, 0, 0, 0.65);
+    -moz-box-shadow: 0 0 25px 4px rgba(0, 0, 0, 0.65);
+}
+
+.gap {
+    width: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    color: #ff3939;
+    background-color: #2b2d30;
+    text-decoration: none;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 0 6px 4px rgba(0, 0, 0, 0.13);
+    -webkit-box-shadow: 0 0 6px 4px rgba(0, 0, 0, 0.13);
+    -moz-box-shadow: 0 0 6px 4px rgba(0, 0, 0, 0.13);
+    text-align: center;
+    transition-duration: .4s;
+}
+
+a:hover {
+    background-color: #ff3939;
+    color: white;
+}
+
+main {
+    margin: 50px;
+    text-align: center;
+    background-color: #434549;
+    padding: 50px;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    gap: 50px;
+}
+
+main>div {
+    flex: .25;
+}
+
+main>div>p {
+    margin-bottom: 25px;
+}
+
+h2 {
+    margin-bottom: 10px;
+}
